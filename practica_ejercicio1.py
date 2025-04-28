@@ -1,4 +1,4 @@
-class PilaCaracteres:
+class PilaCaracteres:   
     def __init__(self):
         self.pila = []
 
